@@ -6,7 +6,7 @@
 
 **Thoughts:** Everything went smooth today, hope this continues to be this way in the upcoming days. 
 
-### Days 2-3: February 6th -7th, 2019
+### Days 2-3: February 6th-7th, 2019
 
 **Today's Progress**: I finished my forum app with all the CRUD funcionality. Will be uploading the code to github in a bit.
 
@@ -18,3 +18,9 @@
 
 **Thoughts:** A little intimidating but much more exciting. 
 
+
+### Day 5: February 9th, 2019
+
+**Today's Progress**: Moving forward in the laravel journey, learning about the enviroment, routes and composer.  
+
+**Thoughts:** I'm getting excited to be honest.  

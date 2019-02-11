@@ -24,3 +24,9 @@
 **Today's Progress**: Moving forward in the laravel journey, learning about the enviroment, routes and composer.  
 
 **Thoughts:** I'm getting excited to be honest.  
+
+### Day 6: February 10th, 2019
+
+**Today's Progress**: Spent a couple of hours with laravel, i learned a bit about models and how laravel makes it so easy to interact with a database. 
+
+**Thoughts:** Nice Sunday. 

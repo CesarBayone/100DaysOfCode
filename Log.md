@@ -30,3 +30,11 @@
 **Today's Progress**: Spent a couple of hours with laravel, i learned a bit about models and how laravel makes it so easy to interact with a database. 
 
 **Thoughts:** Nice Sunday. 
+
+### Day 7: February 11th, 2019
+
+**Today's Progress**: Laravel, laravel, laravel. Getting to know Eloquent and built a form with the help of Laravelcollective.com 
+
+**Thoughts:** ¿First week? Check. 
+
+

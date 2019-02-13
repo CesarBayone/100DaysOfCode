@@ -37,4 +37,8 @@
 
 **Thoughts:** ¿First week? Check. 
 
+### Day 8: February 12th, 2019
 
+**Today's Progress**: Learned a bit about authentication with laravel and God, it seems so easy. That's encouraging. 
+
+**Thoughts:** Trying to raise the amount of hours per day. 

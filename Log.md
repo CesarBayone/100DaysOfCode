@@ -41,4 +41,10 @@
 
 **Today's Progress**: Learned a bit about authentication with laravel and God, it seems so easy. That's encouraging. 
 
-**Thoughts:** Trying to raise the amount of hours per day. 
+**Thoughts:** Trying to raise the amount of hours per day.
+
+### Day 9: February 13th, 2019
+
+**Today's Progress**: I learned to create a relationship between a user and the posts they make in this project. Very handy. 
+
+**Thoughts:** Just one hour today, no biggie.

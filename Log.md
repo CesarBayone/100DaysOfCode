@@ -51,7 +51,7 @@
 
 ### Day 10: February 14th, 2019
 
-**Today's Progress**: I learned to create a relationship between a user and the posts they make in this project. Very handy. 
+**Today's Progress**: I learned about Access Control a bit.  
 
 **Thoughts:** Happy Valentine's. 
 

@@ -48,3 +48,10 @@
 **Today's Progress**: I learned to create a relationship between a user and the posts they make in this project. Very handy. 
 
 **Thoughts:** Just one hour today, no biggie.
+
+### Day 10: February 14th, 2019
+
+**Today's Progress**: I learned to create a relationship between a user and the posts they make in this project. Very handy. 
+
+**Thoughts:** Happy Valentine's. 
+

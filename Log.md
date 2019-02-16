@@ -55,3 +55,8 @@
 
 **Thoughts:** Happy Valentine's. 
 
+### Day 11: February 15th, 2019
+
+**Today's Progress**: Have been a soft friday, been reading, researching and learning about REST API's trough some tutorials and some articles. Interesting topic.
+
+**Thoughts:** Need to add more hours of study a day. One or two isn't enough.  

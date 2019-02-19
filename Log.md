@@ -61,12 +61,17 @@
 
 **Thoughts:** Need to add more hours of study a day. One or two isn't enough.  
 
-### Day 12: February 15th, 2019
+### Day 12: February 17th, 2019
 
 **Today's Progress** Been sick these two days, just today i managed to keep reading about REST APIs, their behaviour and their role. 
 
 **Thoughts:** Hope that tomorrow i'll feel better. Wish me well. 
 
 
+### Day 13: February 18th, 2019
+
+**Today's Progress** Learned a bit about file uploading in laravel. A little overwhelming to be honest.
+
+**Thoughts:** Need to add more hours of study a day, god!
 
 

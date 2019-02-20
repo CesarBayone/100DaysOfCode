@@ -74,4 +74,9 @@
 
 **Thoughts:** Need to add more hours of study a day, god!
 
+### Day 14: February 19th, 2019
+
+**Today's Progress** Finished up a full CRUD app in laravel. 
+
+**Thoughts:** One step at a time. 
 

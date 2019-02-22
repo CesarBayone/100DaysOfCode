@@ -87,7 +87,7 @@
 **Thoughts:** Feeling great.
 
 
-### Day 16: February 20th, 2019
+### Day 16: February 21th, 2019
 
 **Today's Progress** Started to build a REST API in core PHP so i can understand better everything that is going on.
 

@@ -6,5 +6,5 @@
 
 **Thoughts:** Good first day. Let's do this. 
 
-
+### Day 2: March 3rd, 2019
 

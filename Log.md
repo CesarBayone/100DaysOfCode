@@ -8,3 +8,6 @@
 
 ### Day 2: March 3rd, 2019
 
+**Today's Progress**: Continuing with the API project. And reading a couple of things about ftp. 
+
+**Thoughts:** So much to learn *sigh*
